@@ -1,0 +1,61 @@
+
+.navbar-nav .nav-link {
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.Nory {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+}
+
+.carousel-item {
+    height: 500px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 100%;
+    transform: translateY(100%);
+    text-align: center;
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.social-icons i {
+    font-size: 24px;
+    color: #808080;
+    margin: 0 10px;
+}
+
+.social-icons i:hover {
+    color: #C0C0C0;
+}
+
+.about-section {
+    padding: 50px 0;
+}
+
+.about-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
